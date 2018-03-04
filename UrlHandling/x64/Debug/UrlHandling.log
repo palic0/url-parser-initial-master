@@ -1,0 +1,5 @@
+﻿  Url.cpp
+  QueryExtractor.cpp
+  Generating Code...
+c:\users\evan\desktop\url-parser-initial-master\urlhandling\queryextractor.cpp(40): warning C4715: 'QueryExtractor::HasComponent': not all control paths return a value
+  UrlHandling.vcxproj -> C:\Users\evan\Desktop\url-parser-initial-master\x64\Debug\UrlHandling.lib
